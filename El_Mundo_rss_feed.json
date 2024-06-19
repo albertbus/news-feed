@@ -6,78 +6,6 @@
    "category": "News & Politics",
    "items": [
       {
-         "title": "Las tres fases del Rey nuevo: \"medidas dolorosas\" contra un padre, \"moral para resistir a un golpe\" y el desafío de la 'generación Leonor'",
-         "description": "Los diez primeros años del Monarca en el trono se pueden dividir en iniciativas para la renovación, la consolidación desde el 3-O y el futuro de la Jefatura del Estado&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/18/6671c092e4d4d88e6d8b45ad.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/espana/2024/06/18/6671c092e4d4d88e6d8b45ad.html",
-         "author": "Marina Pina",
-         "published": 1718755787000,
-         "created": 1718755787000,
-         "category": [
-            "Felipe VI",
-            "Princesa Leonor",
-            "Reina Letizia",
-            "Casa Real",
-            "Artículos Marina Pina"
-         ],
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187323127473_150x0.jpg",
-               "width": "150",
-               "height": "100"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187323127473.jpg",
-               "medium": "image",
-               "width": "1200",
-               "height": "800"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187323127473.jpg",
-               "medium": "image",
-               "width": "1200",
-               "height": "800"
-            }
-         }
-      },
-      {
-         "title": "El optimismo de Felipe VI se llama Leonor",
-         "description": "\"Hoy los ataques anémicos a la Monarquía tanto de la extrema derecha como de la extrema izquierda mueven antes a la melancolía que a la revolución\"&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/18/66707a14e4d4d8cb728b4585.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/espana/2024/06/18/66707a14e4d4d8cb728b4585.html",
-         "author": "Jorge Bustos",
-         "published": 1718744138000,
-         "created": 1718744138000,
-         "category": [
-            "Felipe VI",
-            "Casa Real",
-            "Reina Letizia",
-            "Princesa Leonor",
-            "Artículos Jorge Bustos"
-         ],
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187355730967_150x0.jpg",
-               "width": "150",
-               "height": "168"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187355730967.jpg",
-               "medium": "image",
-               "width": "1920",
-               "height": "2160"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187355730967.jpg",
-               "medium": "image",
-               "width": "1920",
-               "height": "2160"
-            }
-         }
-      },
-      {
          "title": "La positiva evolución del teclado Qwerty",
          "description": "\"Disponer de una familia de profesionales formados de la mejor manera y capaces de decir la verdad cuando la quiebra colectiva lo requiera es una fortuna envidiada por muchas repúblicas\"&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/18/66707525e4d4d8626d8b45c5.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/espana/2024/06/18/66707525e4d4d8626d8b45c5.html",
@@ -188,35 +116,36 @@
          }
       },
       {
-         "title": "Competencia abre un expediente sancionador contra Naturgy por presunto trato de favor en la gestión de incidencias y reclamaciones",
-         "description": "El organismo supervisor ve indicios de conductas anticompetitivas por parte de la filial de distribución de la gasista&nbsp;<a href=\"https://www.elmundo.es/economia/empresas/2024/06/19/6672a71bfc6c83014b8b45ac.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "title": "La CNMC abre expediente sancionador contra Naturgy por presunto \"trato de favor\" en la gestión de reclamaciones",
+         "description": "El supervisor ve indicios de conductas anticompetitivas por parte de la gasista tras varias denuncias y la inspección de las sedes del grupo&nbsp;<a href=\"https://www.elmundo.es/economia/empresas/2024/06/19/6672a71bfc6c83014b8b45ac.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/economia/empresas/2024/06/19/6672a71bfc6c83014b8b45ac.html",
          "author": "Paula María",
          "published": 1718790237000,
          "created": 1718790237000,
          "category": [
             "Naturgy",
-            "Energía"
+            "Energía",
+            "Artículos Paula María"
          ],
          "enclosures": [
             {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187898672419_150x0.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/10/17180335542630_150x0.jpg",
                "width": "150",
-               "height": "84"
+               "height": "112"
             },
             {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187898672419.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/10/17180335542630.jpg",
                "medium": "image",
-               "width": "2658",
-               "height": "1495"
+               "width": "3072",
+               "height": "2304"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187898672419.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/10/17180335542630.jpg",
                "medium": "image",
-               "width": "2658",
-               "height": "1495"
+               "width": "3072",
+               "height": "2304"
             }
          }
       },
@@ -516,12 +445,12 @@
          }
       },
       {
-         "title": "Kim Jong-un extiende en Pyongyang la alfombra roja a Putin, quien le agradece el \"apoyo inquebrantable\" en Ucrania",
-         "description": "A Rusia le urge adquirir más municiones para su guerra en Ucrania mientras Corea del Norte implora divisas, combustible y alimentos para su hambriento pueblo&nbsp;<a href=\"https://www.elmundo.es/internacional/2024/06/19/66726c62e85eceaf668b4593.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "title": "Putin y Kim Jong-un cierran un acuerdo de defensa mutua: ¿enviará Corea del Norte soldados a Ucrania?",
+         "description": "A Rusia le urge adquirir más municiones para la guerra mientras Pyongyang implora divisas, combustible y alimentos para su hambriento pueblo&nbsp;<a href=\"https://www.elmundo.es/internacional/2024/06/19/66726c62e85eceaf668b4593.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/internacional/2024/06/19/66726c62e85eceaf668b4593.html",
          "author": "Lucas de la Cal",
-         "published": 1718774962000,
-         "created": 1718774962000,
+         "published": 1718793467000,
+         "created": 1718793467000,
          "category": [
             "Corea del Norte",
             "Rusia",
