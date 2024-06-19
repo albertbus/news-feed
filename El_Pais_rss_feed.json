@@ -253,6 +253,46 @@
          }
       },
       {
+         "id": "https://elpais.com/cultura/2024-06-19/el-proximo-videojuego-de-la-saga-de-zelda-sera-protagonizado-por-primera-vez-por-la-princesa-que-le-da-nombre.html",
+         "title": "El próximo videojuego de la saga de Zelda será protagonizado por primera vez por la princesa que le da nombre",
+         "description": "Nintendo anuncia que ‘Echoes of Wisdom’, previsto para septiembre, intentará “romper las convenciones” de la legendaria serie tanto en la trama, que suele liderar el héroe masculino Link, como en las dinámicas de la obra",
+         "link": "https://elpais.com/cultura/2024-06-19/el-proximo-videojuego-de-la-saga-de-zelda-sera-protagonizado-por-primera-vez-por-la-princesa-que-le-da-nombre.html",
+         "author": "EL PAÍS",
+         "published": 1718788930000,
+         "created": 1718788930000,
+         "category": [
+            "Cultura",
+            "Videojuegos",
+            "The Legend of Zelda",
+            "The Legend of Zelda: Tears of the Kingdom",
+            "Nintendo",
+            "Nintendo Switch",
+            "Consola Virtual"
+         ],
+         "content": "<p>Durante siglos las princesas esperaron. Primero, a que algún señor las liberara. Y, luego, a que alguien se dignara a escribir también historias distintas, donde no solo les tocara aguardar la salvación encerradas en una torre. La joven Zelda, para más paradoja, ha encabezado durante décadas el título de <a href=\"https://elpais.com/babelia/2023-05-22/es-the-legend-of-zelda-tears-of-the-kingdom-realmente-el-mejor-videojuego-de-la-historia.html\" target=\"_blank\">una de las sagas de videojuegos más famosas y aplaudidas. </a>El protagonismo, sin embargo, siempre fue para Link, el muchacho que debía rescatarla. Hasta ahora. Casi 40 años después del lanzamiento del primer <i>The Legend of Zelda</i>, allá por 1986, por fin los jugadores controlarán al personaje de la princesa en <i>Echoes of Wisdom</i>, la nueva entrega de la serie, que saldrá a la venta el próximo 26 de septiembre para la consola Switch, <a href=\"https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html\" target=\"_blank\">tal y como anunció Nintendo</a>, la compañía responsable de la obra.</p><p><a href=\"https://elpais.com/cultura/2024-06-19/el-proximo-videojuego-de-la-saga-de-zelda-sera-protagonizado-por-primera-vez-por-la-princesa-que-le-da-nombre.html\" target=\"_blank\">Seguir leyendo</a></p>",
+         "enclosures": [
+            {
+               "media:title": "Zelda",
+               "media:text": "Una imagen de 'The Legend of Zelda: Echoes of Wisdom', distribuida por Nintendo.",
+               "media:description": "Una imagen de 'The Legend of Zelda: Echoes of Wisdom', distribuida por Nintendo.",
+               "url": "https://imagenes.elpais.com/resizer/W1P1781gUAd3kgr57eQ2JM1jczM=/arc-anglerfish-eu-central-1-prod-prisa/public/QYD3EFZE6FDXFBLUKHNCCHLFQU.png",
+               "type": "image/png",
+               "medium": "image"
+            }
+         ],
+         "content_encoded": "<p>Durante siglos las princesas esperaron. Primero, a que algún señor las liberara. Y, luego, a que alguien se dignara a escribir también historias distintas, donde no solo les tocara aguardar la salvación encerradas en una torre. La joven Zelda, para más paradoja, ha encabezado durante décadas el título de <a href=\"https://elpais.com/babelia/2023-05-22/es-the-legend-of-zelda-tears-of-the-kingdom-realmente-el-mejor-videojuego-de-la-historia.html\" target=\"_blank\">una de las sagas de videojuegos más famosas y aplaudidas. </a>El protagonismo, sin embargo, siempre fue para Link, el muchacho que debía rescatarla. Hasta ahora. Casi 40 años después del lanzamiento del primer <i>The Legend of Zelda</i>, allá por 1986, por fin los jugadores controlarán al personaje de la princesa en <i>Echoes of Wisdom</i>, la nueva entrega de la serie, que saldrá a la venta el próximo 26 de septiembre para la consola Switch, <a href=\"https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html\" target=\"_blank\">tal y como anunció Nintendo</a>, la compañía responsable de la obra.</p><p><a href=\"https://elpais.com/cultura/2024-06-19/el-proximo-videojuego-de-la-saga-de-zelda-sera-protagonizado-por-primera-vez-por-la-princesa-que-le-da-nombre.html\" target=\"_blank\">Seguir leyendo</a></p>",
+         "media": {
+            "thumbnail": {
+               "media:title": "Zelda",
+               "media:text": "Una imagen de 'The Legend of Zelda: Echoes of Wisdom', distribuida por Nintendo.",
+               "media:description": "Una imagen de 'The Legend of Zelda: Echoes of Wisdom', distribuida por Nintendo.",
+               "url": "https://imagenes.elpais.com/resizer/W1P1781gUAd3kgr57eQ2JM1jczM=/arc-anglerfish-eu-central-1-prod-prisa/public/QYD3EFZE6FDXFBLUKHNCCHLFQU.png",
+               "type": "image/png",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "https://elpais.com/economia/2024-06-19/un-estudio-pronostica-que-espana-superara-los-90-millones-de-turistas-extranjeros-en-2024.html",
          "title": "Un estudio pronostica que España superará los 90 millones de turistas extranjeros en 2024",
          "description": "El PIB del sector crecerá un robusto 5% a lo largo del año, el doble que el conjunto de la economía, según las proyecciones de CaixaBank Research",
@@ -3476,57 +3516,6 @@
                "duration": "120200",
                "type": "video/mp4",
                "medium": "video"
-            }
-         }
-      },
-      {
-         "id": "https://elpais.com/deportes/eurocopa-futbol/2024-06-19/asi-fue-el-desembarco-de-raul-y-los-primeros-espanoles-en-gelsenkirchen.html",
-         "title": "Así fue el desembarco de Raúl y los primeros españoles en Gelsenkirchen",
-         "description": "El 7 dejó el Madrid por el Schalke 04 en 2010, y allí le siguieron José Manuel Jurado y Sergio Escudero durante dos cursos inolvidables en los que ganaron dos títulos y alcanzaron las semifinales de la Champions",
-         "link": "https://elpais.com/deportes/eurocopa-futbol/2024-06-19/asi-fue-el-desembarco-de-raul-y-los-primeros-espanoles-en-gelsenkirchen.html",
-         "author": "David Álvarez",
-         "published": 1718766900000,
-         "created": 1718766900000,
-         "category": [
-            "Eurocopa",
-            "Fútbol",
-            "Eurocopa 2024",
-            "Futbolistas",
-            "Entrenadores",
-            "Competiciones",
-            "Deportes",
-            "Schalke 04",
-            "Raúl González",
-            "Sergio Escudero",
-            "José Manuel Jurado",
-            "Bundesliga",
-            "Christoph Metzelder",
-            "Champions League",
-            "Real Madrid",
-            "Selección española fútbol"
-         ],
-         "content": "<p>España llega este miércoles a Gelsenkirchen para jugar este jueves contra Italia (21.00, La1), 14 años después de que asomaran los primeros futbolistas españoles en el estadio del Schalke 04. El verano de 2010 deparó un giro insólito para una leyenda del Real Madrid y de la selección. Con 33 años, Raúl fichó por el club alemán. Su contratación atrajo a dos compatriotas, <a href=\"https://elpais.com/deportes/2010/08/30/actualidad/1283152921_850215.html\" target=\"_blank\">José Manuel Jurado</a>, ya retirado, y Sergio Escudero, que milita en el Valladolid recién ascendido.</p><p><a href=\"https://elpais.com/deportes/eurocopa-futbol/2024-06-19/asi-fue-el-desembarco-de-raul-y-los-primeros-espanoles-en-gelsenkirchen.html\" target=\"_blank\">Seguir leyendo</a></p>",
-         "enclosures": [
-            {
-               "media:credit": "Christof Koepsel (Bongarts/Getty Images)",
-               "media:title": "FC Schalke 04 v FSV Mainz 05  - Bundesliga",
-               "media:text": "Sergio Escudero y Raúl con Pukki, después de un partido en el Veltins Arena en febrero de 2012.",
-               "media:description": "Sergio Escudero y Raúl con Pukki, después de un partido en el Veltins Arena en febrero de 2012.",
-               "url": "https://imagenes.elpais.com/resizer/twGdtzl4K0bOArdcUdoxcNZxKek=/arc-anglerfish-eu-central-1-prod-prisa/public/6AD7RCZCXBFVLMXZ6ZNP4WGUTU.jpg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "content_encoded": "<p>España llega este miércoles a Gelsenkirchen para jugar este jueves contra Italia (21.00, La1), 14 años después de que asomaran los primeros futbolistas españoles en el estadio del Schalke 04. El verano de 2010 deparó un giro insólito para una leyenda del Real Madrid y de la selección. Con 33 años, Raúl fichó por el club alemán. Su contratación atrajo a dos compatriotas, <a href=\"https://elpais.com/deportes/2010/08/30/actualidad/1283152921_850215.html\" target=\"_blank\">José Manuel Jurado</a>, ya retirado, y Sergio Escudero, que milita en el Valladolid recién ascendido.</p><p><a href=\"https://elpais.com/deportes/eurocopa-futbol/2024-06-19/asi-fue-el-desembarco-de-raul-y-los-primeros-espanoles-en-gelsenkirchen.html\" target=\"_blank\">Seguir leyendo</a></p>",
-         "media": {
-            "thumbnail": {
-               "media:credit": "Christof Koepsel (Bongarts/Getty Images)",
-               "media:title": "FC Schalke 04 v FSV Mainz 05  - Bundesliga",
-               "media:text": "Sergio Escudero y Raúl con Pukki, después de un partido en el Veltins Arena en febrero de 2012.",
-               "media:description": "Sergio Escudero y Raúl con Pukki, después de un partido en el Veltins Arena en febrero de 2012.",
-               "url": "https://imagenes.elpais.com/resizer/twGdtzl4K0bOArdcUdoxcNZxKek=/arc-anglerfish-eu-central-1-prod-prisa/public/6AD7RCZCXBFVLMXZ6ZNP4WGUTU.jpg",
-               "type": "image/jpeg",
-               "medium": "image"
             }
          }
       }
