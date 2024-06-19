@@ -51,6 +51,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
+         "title": "Detenido en Países Bajos el presunto autor material del atentado contra Alejo Vidal-Quadras",
+         "description": "El Ministerio del Interior y la Policía Nacional han confirmado la detencion en Países Bajos del ciudadano francés de origen tunecino buscado por ser el autor material del atentado contra Alejo Vidal-Quadras en Madrid.",
+         "link": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
+         "published": 1718794234000,
+         "created": 1718794234000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619125034_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
          "title": "Aragonès y Rovira se suman al manifiesto de ERC que pide renovar su cúpula, que Junqueras desea seguir liderando",
          "description": "El presidente de la Generalitat en funciones, Pere Aragonès; la secretaria general de ERC, Marta Rovira, y el presidente de ERC en el Parlament, Josep Maria Jové, se han sumado este miércoles al manifiesto firmado por 746 militantes republicanos que piden renovar la cúpula del partido y que aspira a seguir liderando Oriol Junqueras.",
@@ -105,23 +122,6 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
-         "title": "El Gobierno estudia denunciar al presidente del Parlamento balear por romper la foto de una víctima del franquismo",
-         "description": "El Gobierno estudia llevar a cabo acciones legales contra el presidente del Parlamento Balear, Gabriel Le Senne (Vox), por arrancar una fotografía de Aurora Picornell durante una sesión plenaria, aunque todavía no han decidido si actuarán amparándose en la Ley de Memoria Democrática o de otra norma.",
-         "link": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
-         "published": 1718792438000,
-         "created": 1718792438000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619122038_120_v2.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
          "id": "https://www.europapress.es/internacional/noticia-putin-kim-preparan-documento-fundamental-relaciones-ambos-paises-largo-plazo-20240619073652.html",
          "title": "Putin y Kim sellan un acuerdo de asociación estratégica y pactan la defensa mutua en caso de agresión",
          "description": "El presidente de Rusia, Vladimir Putin, y el líder norcoreano, Kim Jong Un, han firmado este miércoles un acuerdo de \"asociación estratégica\" con una cláusula de defensa mutua en caso de agresión, un pacto alcanzado en el marco de la visita del mandatario ruso al país, la primera en 24 años.",
@@ -150,16 +150,16 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/nacional/noticia-pnv-pse-defiende-memoria-erradique-restos-aceptacion-social-violencia-reconozca-dano-causado-20240619113146.html",
-         "title": "PNV y PSE defiende una memoria que erradique los restos de aceptación social de la violencia y reconozca el daño causado",
-         "description": "Afirman que consolidar una convivencia \"plural, integradora y comprometida\" requiere \"construir una memoria crítica con el pasado\"",
-         "link": "https://www.europapress.es/nacional/noticia-pnv-pse-defiende-memoria-erradique-restos-aceptacion-social-violencia-reconozca-dano-causado-20240619113146.html",
-         "published": 1718789506000,
-         "created": 1718789506000,
+         "id": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
+         "title": "El Gobierno estudia denunciar al presidente del Parlament balear por romper la foto de una víctima del franquismo",
+         "description": "El Gobierno estudia llevar a cabo acciones legales contra el presidente del Parlament Balear, Gabriel Le Senne (Vox), por arrancar una fotografía de Aurora Picornell durante una sesión plenaria, aunque todavía no han decidido si actuarán amparándose en la Ley de Memoria Democrática o de otra norma.",
+         "link": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
+         "published": 1718792438000,
+         "created": 1718792438000,
          "category": "Nacional",
          "enclosures": [
             {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619113146_120.jpg",
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619122038_120_v2.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
