@@ -80,6 +80,42 @@
          }
       },
       {
+         "title": "Detenido en Países Bajos el hombre que tiroteó a Alejo Vidal-Quadras",
+         "description": "Se trata de Mehrez Ayari, de 37 años, un hombre de nacionalidad francesa y origen tunecino que acumula multitud de antecedentes&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/19/6672ba4121efa075478b45a8.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "link": "https://www.elmundo.es/espana/2024/06/19/6672ba4121efa075478b45a8.html",
+         "author": "Gema Peñalosa",
+         "published": 1718795240000,
+         "created": 1718795240000,
+         "category": [
+            "Alejo Vidal-Quadras",
+            "PP",
+            "Vox",
+            "Audiencia Nacional",
+            "Artículos Gema Peñalosa"
+         ],
+         "enclosures": [
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187945351631_150x0.jpg",
+               "width": "150",
+               "height": "117"
+            },
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187945351631.jpg",
+               "medium": "image",
+               "width": "2459",
+               "height": "1931"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187945351631.jpg",
+               "medium": "image",
+               "width": "2459",
+               "height": "1931"
+            }
+         }
+      },
+      {
          "title": "La juez procesa al ex jefe de Puertos de Baleares por amañar concursos y subraya que \"informaba a Armengol\"",
          "description": "&nbsp;<a href=\"https://www.elmundo.es/baleares/2024/06/19/6672b4cae4d4d8ca678b4578.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/baleares/2024/06/19/6672b4cae4d4d8ca678b4578.html",
@@ -187,36 +223,6 @@
                "medium": "image",
                "width": "3072",
                "height": "2048"
-            }
-         }
-      },
-      {
-         "title": "Rovira y Aragonès se adhieren al manifiesto de ERC que promueve la retirada de Junqueras",
-         "description": "Mientras, el ex presidente de los republicanos, que quiere optar a la reelección, reclama \"no excluir ni apartar\" a nadie del partido y \"lavar los trapos sucios en casa\"&nbsp;<a href=\"https://www.elmundo.es/cataluna/2024/06/19/667294d7fdddff19b88b45a3.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/cataluna/2024/06/19/667294d7fdddff19b88b45a3.html",
-         "author": "Víctor Mondelo",
-         "published": 1718785303000,
-         "created": 1718785303000,
-         "category": "Artículos Víctor Mondelo",
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377_150x0.jpg",
-               "width": "150",
-               "height": "99"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377.jpg",
-               "medium": "image",
-               "width": "2048",
-               "height": "1365"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377.jpg",
-               "medium": "image",
-               "width": "2048",
-               "height": "1365"
             }
          }
       },
@@ -415,6 +421,36 @@
          "media": {}
       },
       {
+         "title": "Rovira y Aragonès se adhieren al manifiesto de ERC que promueve la retirada de Junqueras",
+         "description": "Mientras, el ex presidente de los republicanos, que quiere optar a la reelección, reclama \"no excluir ni apartar\" a nadie del partido y \"lavar los trapos sucios en casa\"&nbsp;<a href=\"https://www.elmundo.es/cataluna/2024/06/19/667294d7fdddff19b88b45a3.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "link": "https://www.elmundo.es/cataluna/2024/06/19/667294d7fdddff19b88b45a3.html",
+         "author": "Víctor Mondelo",
+         "published": 1718785303000,
+         "created": 1718785303000,
+         "category": "Artículos Víctor Mondelo",
+         "enclosures": [
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377_150x0.jpg",
+               "width": "150",
+               "height": "99"
+            },
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377.jpg",
+               "medium": "image",
+               "width": "2048",
+               "height": "1365"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187850860377.jpg",
+               "medium": "image",
+               "width": "2048",
+               "height": "1365"
+            }
+         }
+      },
+      {
          "title": "La CNMC abre expediente sancionador contra Naturgy por presunto \"trato de favor\" en la gestión de reclamaciones",
          "description": "El supervisor ve indicios de conductas anticompetitivas por parte de la gasista tras varias denuncias y la inspección de las sedes del grupo&nbsp;<a href=\"https://www.elmundo.es/economia/empresas/2024/06/19/6672a71bfc6c83014b8b45ac.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/economia/empresas/2024/06/19/6672a71bfc6c83014b8b45ac.html",
@@ -445,41 +481,6 @@
                "medium": "image",
                "width": "3072",
                "height": "2304"
-            }
-         }
-      },
-      {
-         "title": "Así se fracturó en dos la cúpula fiscal al examinar la Ley de Amnistía que defiende García Ortiz",
-         "description": "Dolores Delgado asistió y votó pese a tener el nombramiento anulado por el Supremo. El fiscal general recurrió a dos votos a distancia para ganar&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/18/6671d750e9cf4ae1408b45b2.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/espana/2024/06/18/6671d750e9cf4ae1408b45b2.html",
-         "author": "Ángela Martialay",
-         "published": 1718744061000,
-         "created": 1718744061000,
-         "category": [
-            "Álvaro García Ortiz",
-            "Amnistía",
-            "Carles Puigdemont",
-            "Artículos Ángela Martialay"
-         ],
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187389735757_150x0.jpg",
-               "width": "150",
-               "height": "116"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187389735757.jpg",
-               "medium": "image",
-               "width": "2835",
-               "height": "2194"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187389735757.jpg",
-               "medium": "image",
-               "width": "2835",
-               "height": "2194"
             }
          }
       },
@@ -599,6 +600,36 @@
                "medium": "image",
                "width": "1920",
                "height": "1080"
+            }
+         }
+      },
+      {
+         "title": "Adiós del Chacho: Sergio Rodríguez anuncia que deja el baloncesto  a los 38 años",
+         "description": "&nbsp;<a href=\"https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "link": "https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html",
+         "author": "EL MUNDO",
+         "published": 1718795038000,
+         "created": 1718795038000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187944568905_150x0.jpg",
+               "width": "150",
+               "height": "99"
+            },
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187944568905.jpg",
+               "medium": "image",
+               "width": "3072",
+               "height": "2037"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187944568905.jpg",
+               "medium": "image",
+               "width": "3072",
+               "height": "2037"
             }
          }
       },

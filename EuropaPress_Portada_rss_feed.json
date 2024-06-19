@@ -51,23 +51,6 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
-         "title": "Detenido en Países Bajos el presunto autor material del atentado contra Alejo Vidal-Quadras",
-         "description": "El Ministerio del Interior y la Policía Nacional han confirmado la detencion en Países Bajos del ciudadano francés de origen tunecino buscado por ser el autor material del atentado contra Alejo Vidal-Quadras en Madrid.",
-         "link": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
-         "published": 1718794234000,
-         "created": 1718794234000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619125034_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
          "id": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
          "title": "Aragonès y Rovira se suman al manifiesto de ERC que pide renovar su cúpula, que Junqueras desea seguir liderando",
          "description": "El presidente de la Generalitat en funciones, Pere Aragonès; la secretaria general de ERC, Marta Rovira, y el presidente de ERC en el Parlament, Josep Maria Jové, se han sumado este miércoles al manifiesto firmado por 746 militantes republicanos que piden renovar la cúpula del partido y que aspira a seguir liderando Oriol Junqueras.",
@@ -85,6 +68,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
+         "title": "Detenido en Países Bajos el presunto autor material del atentado contra Alejo Vidal-Quadras",
+         "description": "El Ministerio del Interior y la Policía Nacional han confirmado la detencion en Países Bajos del ciudadano francés de origen tunecino buscado por ser el autor material del atentado contra Alejo Vidal-Quadras en Madrid.",
+         "link": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
+         "published": 1718794234000,
+         "created": 1718794234000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619125034_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/nacional/noticia-constitucional-anula-condena-prevaricacion-caso-ere-exministra-socialista-magdalena-alvarez-20240619112826.html",
          "title": "El TC anula la condena de Magdalena Álvarez por los ERE y ordena a la Audiencia de Sevilla rebajarla",
          "description": "Estima el recurso en lo relativo a los anteproyectos y proyectos de ley de 2002 a 2004, no así con las modificaciones de 2000 y 2001",
@@ -95,6 +95,23 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619112826_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
+         "title": "El Gobierno estudia denunciar al presidente del Parlament balear por romper la foto de una víctima del franquismo",
+         "description": "El Gobierno estudia llevar a cabo acciones legales contra el presidente del Parlament Balear, Gabriel Le Senne (Vox), por arrancar una fotografía de Aurora Picornell durante una sesión plenaria, aunque todavía no han decidido si actuarán amparándose en la Ley de Memoria Democrática o de otra norma.",
+         "link": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
+         "published": 1718792438000,
+         "created": 1718792438000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619122038_120_v3.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
@@ -147,23 +164,6 @@
          "created": 1718257489000,
          "category": "Internacional",
          "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
-         "title": "El Gobierno estudia denunciar al presidente del Parlament balear por romper la foto de una víctima del franquismo",
-         "description": "El Gobierno estudia llevar a cabo acciones legales contra el presidente del Parlament Balear, Gabriel Le Senne (Vox), por arrancar una fotografía de Aurora Picornell durante una sesión plenaria, aunque todavía no han decidido si actuarán amparándose en la Ley de Memoria Democrática o de otra norma.",
-         "link": "https://www.europapress.es/nacional/noticia-gobierno-estudia-denunciar-presidente-parlamento-balear-romper-foto-victima-franquismo-20240619122038.html",
-         "published": 1718792438000,
-         "created": 1718792438000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619122038_120_v2.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
          "media": {}
       }
    ]
