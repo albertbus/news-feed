@@ -1,0 +1,155 @@
+{
+   "title": "Portada",
+   "description": "Portada",
+   "link": "https://www.europapress.es/",
+   "image": "https://s01.europapress.net/imagenes/estaticos/eplogo.gif",
+   "category": [],
+   "items": [
+      {
+         "id": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-financiacion-investidura-illa-dice-reconocera-singularidad-cataluna-20240619093210.html",
+         "title": "Sánchez desvincula la financiación de la investidura de Illa y dice que reconocerá la \"singularidad\" a Cataluña",
+         "description": "El presidente de Gobierno, Pedro Sánchez, ha garantizado este miércoles a la portavoz de Junts en el Congreso, Míriam Nogueras, que cumplirá el pacto que cerró con ERC para su investidura reformando el sistema de financiación autonómica y reconociendo \"una singularidad al pueblo de Cataluña\" y ha desvinculado este compromiso de la eventual investidura de Salvador Illa como presidente de la Generalitat.",
+         "link": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-financiacion-investidura-illa-dice-reconocera-singularidad-cataluna-20240619093210.html",
+         "published": 1718782330000,
+         "created": 1718782330000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619093210_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/catalunya/noticia-criticos-erc-exigen-renovacion-total-cupula-partido-congreso-noviembre-20240618185659.html",
+         "title": "Críticos de ERC exigen una \"renovación total\" de la cúpula del partido en el Congreso de noviembre",
+         "description": "Un sector crítico de las bases de ERC, el Col·lectiu Primer d'Octubre, ha exigido este martes una \"renovación total\" de la cúpula del partido en el Congreso Nacional de los republicanos agendado para el mes de noviembre, y cambiar la estrategia de la formación para volver, dicen textualmente, a la senda de la independencia.",
+         "link": "https://www.europapress.es/catalunya/noticia-criticos-erc-exigen-renovacion-total-cupula-partido-congreso-noviembre-20240618185659.html",
+         "published": 1718729819000,
+         "created": 1718729819000,
+         "category": "Catalunya",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240618185659_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/economia/noticia-sanchez-anuncia-comision-europea-sacado-espana-procedimiento-deficit-excesivo-20240619092621.html",
+         "title": "Bruselas no abrirá a España el procedimiento de déficit excesivo",
+         "description": "El presidente del Gobierno, Pedro Sánchez, ha avanzado este miércoles que la Comisión Europea ha tomado la decisión de no abrir el procedimiento de déficit excesivo a España, que se activa cuando un Estado miembro incumple las normas europeas en materia déficit y deuda y que supone el primer paso para un expediente sancionador.",
+         "link": "https://www.europapress.es/economia/noticia-sanchez-anuncia-comision-europea-sacado-espana-procedimiento-deficit-excesivo-20240619092621.html",
+         "published": 1718781981000,
+         "created": 1718781981000,
+         "category": "Economía Finanzas",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619092621_120_v2.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-felipe-vi-cumple-10-anos-rey-intentado-recuperar-prestigio-ejemplaridad-corona-20240615100853.html",
+         "title": "Felipe VI cumple 10 años como Rey en los que ha intentado recuperar el prestigio y la ejemplaridad de la Corona",
+         "description": "El 19 de junio de 2014 Felipe VI se presentó ante las Cortes en la ceremonia de proclamación con un discurso de \"ejemplaridad\" que ha ido desarrollando en estos diez años y cuyo objetivo era recuperar la debilitada imagen de la Corona, asediada hace una década por los escándalos que afectaban tanto a Don Juan Carlos como a otros miembros de la Familia Real.",
+         "link": "https://www.europapress.es/nacional/noticia-felipe-vi-cumple-10-anos-rey-intentado-recuperar-prestigio-ejemplaridad-corona-20240615100853.html",
+         "published": 1718438933000,
+         "created": 1718438933000,
+         "category": "Nacional",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-servicio-compromiso-deber-emblema-elegido-rey-decimo-aniversario-proclamacion-20240619000014.html",
+         "title": "\"Servicio, compromiso y deber\", el emblema elegido por el Rey en el décimo aniversario de su proclamación",
+         "description": "\"Servicio, compromiso y deber\" ha sido el emblema elegido por Felipe VI con motivo del décimo aniversario de su proclamación como Rey el 19 de junio de 2014, según ha informado Zarzuela.",
+         "link": "https://www.europapress.es/nacional/noticia-servicio-compromiso-deber-emblema-elegido-rey-decimo-aniversario-proclamacion-20240619000014.html",
+         "published": 1718748014000,
+         "created": 1718748014000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619000014_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-rajoy-resalta-apoyo-mayoritario-felipe-vi-exito-sucesion-pacto-rubalcaba-hizo-17-dias-20240615100053.html",
+         "title": "Rajoy resalta el apoyo mayoritario a Felipe VI y el éxito de la sucesión que pactó con Rubalcaba: \"Se hizo en 17 días\"",
+         "description": "Cree que ahora sería \"imposible\" un pacto PP-PSOE como el que cerró con Rubalcaba, que fue \"muy constructivo\" y estuvo \"a la altura\"",
+         "link": "https://www.europapress.es/nacional/noticia-rajoy-resalta-apoyo-mayoritario-felipe-vi-exito-sucesion-pacto-rubalcaba-hizo-17-dias-20240615100053.html",
+         "published": 1718438453000,
+         "created": 1718438453000,
+         "category": "Nacional",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/internacional/noticia-putin-kim-preparan-documento-fundamental-relaciones-ambos-paises-largo-plazo-20240619073652.html",
+         "title": "Putin y Kim firman un acuerdo de cooperación estratégica ante las críticas internacionales",
+         "description": "El presidente de Rusia, Vladimir Putin, y el líder norcoreano, Kim Jong Un, han firmado este miércoles un acuerdo de cooperación estratégica en el marco de la visita del mandatario ruso al país, que constituye la primera en 24 años y ha generado numerosas críticas a nivel internacional.",
+         "link": "https://www.europapress.es/internacional/noticia-putin-kim-preparan-documento-fundamental-relaciones-ambos-paises-largo-plazo-20240619073652.html",
+         "published": 1718775412000,
+         "created": 1718775412000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619073652_120_v2.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
+         "title": "Guerra Israel -Hamás | Directo: La ONU: Israel podría violar las leyes de la guerra con su uso de bombas pesadas",
+         "description": "Las autoridades de la Franja de Gaza, controladas por el Movimiento de Resistencia Islámica (Hamás), han alertado de que el enclave \"se dirige rápidamente hacia una hambruna\" y ha recalcado que \"el espectro del hambre amenaza directamente las vidas de los civiles\" a causa del bloqueo a la entrada de ayuda en medio de la ofensiva militar lanzada por Israel.",
+         "link": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
+         "published": 1718257489000,
+         "created": 1718257489000,
+         "category": "Internacional",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-gobierno-valora-acciones-judiciales-contra-presidente-parlament-balear-arrancar-foto-picornell-20240619003805.html",
+         "title": "El Gobierno valora acciones judiciales contra el presidente del Parlament balear por arrancar una foto de Picornell",
+         "description": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha informado de que ha dado instrucciones a los servicios jurídicos de su Ministerio para que analicen lo ocurrido y emprendan acciones legales, si procede, conforme a la Ley de Memoria Democrática después de que el presidente del Parlament balear Gabriel Le Senne (Vox) haya arrancado una foto de Aurora Picornell.",
+         "link": "https://www.europapress.es/nacional/noticia-gobierno-valora-acciones-judiciales-contra-presidente-parlament-balear-arrancar-foto-picornell-20240619003805.html",
+         "published": 1718750285000,
+         "created": 1718750285000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619003805_120_v2.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
+         "title": "Guerra Ucrania - Rusia | Directo: Muere el oficial herido en un ataque contra dos reporteros de una cadena en Donetsk",
+         "description": "Un dron ucraniano ha impactado este martes por la mañana contra un depósito de productos petrolíferos situado en la región rusa de Rostov, cerca de la frontera con Ucrania, causando un gran incendio en la zona, a la que se han desplazado más de 200 bomberos.",
+         "link": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
+         "published": 1718258087000,
+         "created": 1718258087000,
+         "category": "Internacional",
+         "enclosures": [],
+         "media": {}
+      }
+   ]
+}

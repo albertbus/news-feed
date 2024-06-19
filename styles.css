@@ -1,0 +1,104 @@
+/* styles.css */
+
+/* Light Mode */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: #d3d3d3;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav {
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 10vh; /* Full viewport height */
+}
+
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+header img {
+    max-width: 200px;
+    height: auto;
+}
+article {
+    background-color: #f3f3f3;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+article h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+article p {
+    margin-bottom: 10px;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+#blogContent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* Adjust gap as needed */
+    padding: 20px;
+}
+
+#blogContent article {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.titleLink {
+    color: black;
+    text-decoration: none;
+}
+
+.titleLink:hover {
+    color: rgb(95, 91, 91);
+}
+
+#modeToggle {
+    height: 100%;
+    border-radius: 3em;
+}
+
+#modeToggleImg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Dark Mode */
+
+.dark-mode {
+    background-color: rgb(2, 9, 24);
+}
+
+.dark-mode article {
+    background-color: rgb(6, 6, 44);
+    color:#ccc;
+}
+
+.dark-mode h1 {
+    color:#dbdbdb;
+}
+
+.dark-mode article a {
+    color: #d8d8d8;
+}
