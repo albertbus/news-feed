@@ -64,7 +64,7 @@
       {
          "id": "https://www.europapress.es/nacional/noticia-constitucional-anula-condena-prevaricacion-caso-ere-exministra-socialista-magdalena-alvarez-20240619112826.html",
          "title": "El Constitucional anula la condena por prevaricación en el 'caso ERE' para la exministra socialista Magdalena Álvarez",
-         "description": "El Pleno del Tribunal Constitucional (TC) ha anulado este martes la condena de nueve años de inhabilitación impuesta a la exministra socialista y exconsejera de Economía de Andalucía, Magdalena Álvarez, por un delito de prevaricación en el denominado 'caso ERE'.",
+         "description": "El Pleno del Tribunal Constitucional (TC) ha anulado este miércoles la condena de nueve años de inhabilitación impuesta a la exministra socialista y exconsejera de Economía de Andalucía, Magdalena Álvarez, por un delito de prevaricación en el denominado 'caso ERE'.",
          "link": "https://www.europapress.es/nacional/noticia-constitucional-anula-condena-prevaricacion-caso-ere-exministra-socialista-magdalena-alvarez-20240619112826.html",
          "published": 1718789306000,
          "created": 1718789306000,
@@ -118,12 +118,29 @@
       {
          "id": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
          "title": "Guerra Israel -Hamás | Directo: La ONU: Israel podría violar las leyes de la guerra con su uso de bombas pesadas",
-         "description": "Las autoridades de la Franja de Gaza, controladas por el Movimiento de Resistencia Islámica (Hamás), han alertado de que el enclave \"se dirige rápidamente hacia una hambruna\" y ha recalcado que \"el espectro del hambre amenaza directamente las vidas de los civiles\" a causa del bloqueo a la entrada de ayuda en medio de la ofensiva militar lanzada por Israel.",
+         "description": "Las autoridades de la Franja de Gaza, controladas por el Movimiento de Resistencia Islámica (Hamás), han elevado a cerca de 37.400 los palestinos muertos y a más de 85.500 los heridos a causa de la ofensiva militar desatada por Israel contra el enclave tras los ataques ejecutados el 7 de octubre por el grupo islamista y que se saldaron con unos 1.200 muertos y cerca de 250 secuestrados.",
          "link": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
          "published": 1718257489000,
          "created": 1718257489000,
          "category": "Internacional",
          "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-gobierno-estudia-si-actuacion-le-senne-constituye-delito-odio-enaltecimiento-franquismo-20240619114325.html",
+         "title": "El Gobierno estudia si la actuación de Le Senne constituye delito de odio o enaltecimiento del franquismo",
+         "description": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha detallado que los servicios jurídicos de su Ministerio están estudiando si la actuación del presidente del Parlament, Gabriel Le Senne (Vox), constituye un delito de odio o incluso de enaltecimiento del franquismo, y ha avisado de que el Gobierno acudirá al Tribunal Constitucional (TC) si el Govern balear continúa con la derogación de la ley autonómica de memoria.",
+         "link": "https://www.europapress.es/nacional/noticia-gobierno-estudia-si-actuacion-le-senne-constituye-delito-odio-enaltecimiento-franquismo-20240619114325.html",
+         "published": 1718790205000,
+         "created": 1718790205000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619114325_120_v2.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
          "media": {}
       },
       {
@@ -137,23 +154,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111437_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/economia/noticia-cnmc-investiga-distribuidora-electrica-naturgy-haber-podido-falsear-libre-competencia-20240619111118.html",
-         "title": "La CNMC investiga a la distribuidora eléctrica de Naturgy por haber podido \"falsear\" la libre competencia",
-         "description": "MADRID, 19 Jun. (EUROPA PRESS) - La Comisión Nacional de los Mercados y la Competencia (CNMC) está investigando a la distribuidora eléctrica del Grupo Naturgy, UFD, y a sus matrices por posibles prácticas anticompetitivas, entre ellas haber podido priorizar las incidencias y reclamaciones presentadas por ciertas comercializadoras entre 2021 y 2022.",
-         "link": "https://www.europapress.es/economia/noticia-cnmc-investiga-distribuidora-electrica-naturgy-haber-podido-falsear-libre-competencia-20240619111118.html",
-         "published": 1718788278000,
-         "created": 1718788278000,
-         "category": "Economía Finanzas",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111118_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
