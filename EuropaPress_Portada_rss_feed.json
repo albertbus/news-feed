@@ -29,7 +29,7 @@
          "link": "https://www.europapress.es/catalunya/noticia-criticos-erc-exigen-renovacion-total-cupula-partido-congreso-noviembre-20240618185659.html",
          "published": 1718729819000,
          "created": 1718729819000,
-         "category": "Cataluña",
+         "category": "Catalunya",
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240618185659_120.jpg",
@@ -124,6 +124,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/sociedad/noticia-espana-registra-104375-nacimientos-cuatro-primeros-meses-2024-12-mas-2023-243-menos-2014-20240619111437.html",
+         "title": "España registra 104.375 nacimientos en los cuatro primeros meses de 2024, 1,2% más que en 2023 y 24,3% menos que en 2014",
+         "description": "España ha registrado 104.375 nacimientos en los cuatro primeros meses de 2024, lo que supone un 1,2% más que en 2023, cuando se registraron 1.279. Se trata de un 24,3% menos que en 2014, con 33.664, según las estimaciones de nacimientos mensuales del Instituto Nacional de Estadística (INE).",
+         "link": "https://www.europapress.es/sociedad/noticia-espana-registra-104375-nacimientos-cuatro-primeros-meses-2024-12-mas-2023-243-menos-2014-20240619111437.html",
+         "published": 1718788477000,
+         "created": 1718788477000,
+         "category": "Sociedad",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111437_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/economia/noticia-cnmc-investiga-distribuidora-electrica-naturgy-haber-podido-falsear-libre-competencia-20240619111118.html",
          "title": "La CNMC investiga a la distribuidora eléctrica de Naturgy por haber podido \"falsear\" la libre competencia",
          "description": "MADRID, 19 Jun. (EUROPA PRESS) - La Comisión Nacional de los Mercados y la Competencia (CNMC) está investigando a la distribuidora eléctrica del Grupo Naturgy, UFD, y a sus matrices por posibles prácticas anticompetitivas, entre ellas haber podido priorizar las incidencias y reclamaciones presentadas por ciertas comercializadoras entre 2021 y 2022.",
@@ -134,23 +151,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111118_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/nacional/noticia-gobierno-valora-acciones-judiciales-contra-presidente-parlament-balear-arrancar-foto-picornell-20240619003805.html",
-         "title": "El Gobierno valora acciones judiciales contra el presidente del Parlament balear por arrancar una foto de Picornell",
-         "description": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha informado de que ha dado instrucciones a los servicios jurídicos de su Ministerio para que analicen lo ocurrido y emprendan acciones legales, si procede, conforme a la Ley de Memoria Democrática después de que el presidente del Parlament balear Gabriel Le Senne (Vox) haya arrancado una foto de Aurora Picornell.",
-         "link": "https://www.europapress.es/nacional/noticia-gobierno-valora-acciones-judiciales-contra-presidente-parlament-balear-arrancar-foto-picornell-20240619003805.html",
-         "published": 1718750285000,
-         "created": 1718750285000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619003805_120_v2.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
