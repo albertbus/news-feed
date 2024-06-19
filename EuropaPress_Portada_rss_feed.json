@@ -34,23 +34,6 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/nacional/noticia-servicio-compromiso-deber-emblema-elegido-rey-decimo-aniversario-proclamacion-20240619000014.html",
-         "title": "\"Servicio, compromiso y deber\", el emblema elegido por el Rey en el décimo aniversario de su proclamación",
-         "description": "\"Servicio, compromiso y deber\" ha sido el emblema elegido por Felipe VI con motivo del décimo aniversario de su proclamación como Rey el 19 de junio de 2014, según ha informado Zarzuela.",
-         "link": "https://www.europapress.es/nacional/noticia-servicio-compromiso-deber-emblema-elegido-rey-decimo-aniversario-proclamacion-20240619000014.html",
-         "published": 1718748014000,
-         "created": 1718748014000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619000014_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
          "id": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-financiacion-investidura-illa-dice-reconocera-singularidad-cataluna-20240619093210.html",
          "title": "Sánchez desvincula la financiación de la investidura de Illa y dice que reconocerá la \"singularidad\" a Cataluña",
          "description": "El presidente de Gobierno, Pedro Sánchez, ha garantizado este miércoles a la portavoz de Junts en el Congreso, Míriam Nogueras, que cumplirá el pacto que cerró con ERC para su investidura reformando el sistema de financiación autonómica y reconociendo \"una singularidad al pueblo de Cataluña\" y ha desvinculado este compromiso de la eventual investidura de Salvador Illa como presidente de la Generalitat.",
@@ -61,6 +44,23 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619093210_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/catalunya/noticia-batet-junts-traslada-rull-puigdemont-quiere-presentarse-investidura-no-ahora-20240619120347.html",
+         "title": "Junts traslada a Rull que Puigdemont quiere presentarse a la investidura \"pero no ahora\"",
+         "description": "El presidente de Junts en el Parlament, Albert Batet, ha trasladado al presidente del Parlament, Josep Rull, que el expresidente de la Generalitat y candidato del partido, Carles Puigdemont, quiere presentarse a la investidura \"pero no ahora\".",
+         "link": "https://www.europapress.es/catalunya/noticia-batet-junts-traslada-rull-puigdemont-quiere-presentarse-investidura-no-ahora-20240619120347.html",
+         "published": 1718792132000,
+         "created": 1718792132000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619121532_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
@@ -105,10 +105,10 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
+         "id": "https://www.europapress.es/nacional/noticia-aragones-rovira-suman-manifiesto-erc-pide-renovar-cupula-junqueras-desea-seguir-liderando-20240619115859.html",
          "title": "Aragonès y Rovira se suman al manifiesto de ERC que pide renovar su cúpula, que Junqueras desea seguir liderando",
          "description": "El presidente de la Generalitat en funciones, Pere Aragonès; la secretaria general de ERC, Marta Rovira, y el presidente de ERC en el Parlament, Josep Maria Jové, se han sumado este miércoles al manifiesto firmado por 746 militantes republicanos que piden renovar la cúpula del partido y que aspira a seguir liderando Oriol Junqueras.",
-         "link": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
+         "link": "https://www.europapress.es/nacional/noticia-aragones-rovira-suman-manifiesto-erc-pide-renovar-cupula-junqueras-desea-seguir-liderando-20240619115859.html",
          "published": 1718791139000,
          "created": 1718791139000,
          "category": "Nacional",
