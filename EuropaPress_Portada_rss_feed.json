@@ -17,6 +17,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/nacional/noticia-reyes-princesa-asturias-infanta-sofia-testigos-excepcion-relevo-solemne-guardia-real-20240619120554.html",
+         "title": "Los Reyes, la Princesa de Asturias y la Infanta Sofía, testigos de excepción del relevo solemne de la Guardia Real",
+         "description": "Los Reyes Felipe VI y Letizia junto a la Princesa de Asturias y la Infanta Sofía han sido testigos de excepción del relevo solemne de la Guardia Real en el Palacio Real que ha dado el pistoletazo a los actos oficiales con motivo del décimo aniversario de la proclamación del monarca.",
+         "link": "https://www.europapress.es/nacional/noticia-reyes-princesa-asturias-infanta-sofia-testigos-excepcion-relevo-solemne-guardia-real-20240619120554.html",
+         "published": 1718791554000,
+         "created": 1718791554000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619120554_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/nacional/noticia-servicio-compromiso-deber-emblema-elegido-rey-decimo-aniversario-proclamacion-20240619000014.html",
          "title": "\"Servicio, compromiso y deber\", el emblema elegido por el Rey en el décimo aniversario de su proclamación",
          "description": "\"Servicio, compromiso y deber\" ha sido el emblema elegido por Felipe VI con motivo del décimo aniversario de su proclamación como Rey el 19 de junio de 2014, según ha informado Zarzuela.",
@@ -31,17 +48,6 @@
                "type": "image/jpeg"
             }
          ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/nacional/noticia-rajoy-resalta-apoyo-mayoritario-felipe-vi-exito-sucesion-pacto-rubalcaba-hizo-17-dias-20240615100053.html",
-         "title": "Rajoy resalta el apoyo mayoritario a Felipe VI y el éxito de la sucesión que pactó con Rubalcaba: \"Se hizo en 17 días\"",
-         "description": "Cree que ahora sería \"imposible\" un pacto PP-PSOE como el que cerró con Rubalcaba, que fue \"muy constructivo\" y estuvo \"a la altura\"",
-         "link": "https://www.europapress.es/nacional/noticia-rajoy-resalta-apoyo-mayoritario-felipe-vi-exito-sucesion-pacto-rubalcaba-hizo-17-dias-20240615100053.html",
-         "published": 1718438453000,
-         "created": 1718438453000,
-         "category": "Nacional",
-         "enclosures": [],
          "media": {}
       },
       {
@@ -99,6 +105,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
+         "title": "Aragonès y Rovira se suman al manifiesto de ERC que pide renovar su cúpula, que Junqueras desea seguir liderando",
+         "description": "El presidente de la Generalitat en funciones, Pere Aragonès; la secretaria general de ERC, Marta Rovira, y el presidente de ERC en el Parlament, Josep Maria Jové, se han sumado este miércoles al manifiesto firmado por 746 militantes republicanos que piden renovar la cúpula del partido y que aspira a seguir liderando Oriol Junqueras.",
+         "link": "https://www.europapress.es/catalunya/noticia-aragones-rovira-jove-suman-manifiesto-militantes-erc-pide-renovar-cupula-20240619114524.html",
+         "published": 1718791139000,
+         "created": 1718791139000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619115859_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/internacional/noticia-putin-kim-preparan-documento-fundamental-relaciones-ambos-paises-largo-plazo-20240619073652.html",
          "title": "Putin y Kim firman un acuerdo de cooperación estratégica ante las críticas internacionales",
          "description": "El presidente de Rusia, Vladimir Putin, y el líder norcoreano, Kim Jong Un, han firmado este miércoles un acuerdo de cooperación estratégica en el marco de la visita del mandatario ruso al país, que constituye la primera en 24 años y ha generado numerosas críticas a nivel internacional.",
@@ -137,23 +160,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619114325_120_v2.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/sociedad/noticia-espana-registra-104375-nacimientos-cuatro-primeros-meses-2024-12-mas-2023-243-menos-2014-20240619111437.html",
-         "title": "España registra 104.375 nacimientos en los cuatro primeros meses de 2024, 1,2% más que en 2023 y 24,3% menos que en 2014",
-         "description": "España ha registrado 104.375 nacimientos en los cuatro primeros meses de 2024, lo que supone un 1,2% más que en 2023, cuando se registraron 1.279. Se trata de un 24,3% menos que en 2014, con 33.664, según las estimaciones de nacimientos mensuales del Instituto Nacional de Estadística (INE).",
-         "link": "https://www.europapress.es/sociedad/noticia-espana-registra-104375-nacimientos-cuatro-primeros-meses-2024-12-mas-2023-243-menos-2014-20240619111437.html",
-         "published": 1718788477000,
-         "created": 1718788477000,
-         "category": "Sociedad",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111437_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
