@@ -34,6 +34,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/nacional/noticia-fiscalia-pide-supremo-amnistie-malversacion-desobediencia-proces-20240619134437.html",
+         "title": "La Fiscalía pide al Supremo que amnistíe la malversación y la desobediencia al 'procés'",
+         "description": "La Fiscalía ha pedido este miércoles al Tribunal Supremo (TS) que aplique la ley de amnistía a la malversación y la desobediencia que se le atribuye a los líderes del 'procés', incluido el expresidente catalán Cales Puigdemont.",
+         "link": "https://www.europapress.es/nacional/noticia-fiscalia-pide-supremo-amnistie-malversacion-desobediencia-proces-20240619134437.html",
+         "published": 1718797477000,
+         "created": 1718797477000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619134437_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-financiacion-investidura-illa-dice-reconocera-singularidad-cataluna-20240619093210.html",
          "title": "Sánchez desvincula la financiación de la investidura de Illa y dice que reconocerá la \"singularidad\" a Cataluña",
          "description": "El presidente de Gobierno, Pedro Sánchez, ha garantizado este miércoles a la portavoz de Junts en el Congreso, Míriam Nogueras, que cumplirá el pacto que cerró con ERC para su investidura reformando el sistema de financiación autonómica y reconociendo \"una singularidad al pueblo de Cataluña\" y ha desvinculado este compromiso de la eventual investidura de Salvador Illa como presidente de la Generalitat.",
@@ -61,23 +78,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619125034_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/nacional/noticia-puigdemont-dice-supremo-lectura-desapasionada-ley-amnistia-permite-aplicacion-malversacion-20240619132210.html",
-         "title": "Puigdemont dice al Supremo que \"una lectura desapasionada\" de la ley de amnistía permite su aplicación a la malversación",
-         "description": "La defensa del expresident catalán Carles Puigdemont ha señalado al Tribunal Supremo que \"una lectura desapasionada\" de la ley de amnistía \"permite manifiestamente su aplicación a los hechos (.",
-         "link": "https://www.europapress.es/nacional/noticia-puigdemont-dice-supremo-lectura-desapasionada-ley-amnistia-permite-aplicacion-malversacion-20240619132210.html",
-         "published": 1718796130000,
-         "created": 1718796130000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619132210_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }

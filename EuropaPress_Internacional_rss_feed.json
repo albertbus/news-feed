@@ -137,8 +137,8 @@
       },
       {
          "id": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
-         "title": "Guerra Ucrania - Rusia | Directo: Muere el oficial herido en un ataque contra dos reporteros de una cadena en Donetsk",
-         "description": "Un dron ucraniano ha impactado este martes por la mañana contra un depósito de productos petrolíferos situado en la región rusa de Rostov, cerca de la frontera con Ucrania, causando un gran incendio en la zona, a la que se han desplazado más de 200 bomberos.",
+         "title": "Guerra Ucrania - Rusia | Directo: Kiev denuncia cientos de casos de violencia sexual a manos de militares rusos",
+         "description": "Las autoridades de Ucrania han acusado a las tropas rusas desplegadas en el marco de la invasión del país de perpetrar más de 300 actos de violencia sexual contra mujeres, hombres y niños, según ha informado la fiscal general adjunta del país, Viktoriya Litvinova.",
          "link": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
          "published": 1718258087000,
          "created": 1718258087000,
@@ -147,16 +147,16 @@
          "media": {}
       },
       {
-         "id": "https://www.europapress.es/internacional/noticia-muere-oficial-escolta-herido-ataque-contra-dos-reporteros-cadena-rusa-ntv-donetsk-20240619013748.html",
-         "title": "Muere el oficial de escolta herido en un ataque contra dos reporteros de la cadena rusa NTV en Donetsk",
-         "description": "Las autoridades prorrusas de Lugansk han anunciado este martes la muerte del oficial de escolta herido la semana pasada en un ataque ucraniano en la localidad de Golmoviski, en la región de Donetsk (este de Ucrania), en el que también murió un reportero y resultó gravemente herido su otro compañero de la cadena de televisión rusa NTV.",
-         "link": "https://www.europapress.es/internacional/noticia-muere-oficial-escolta-herido-ataque-contra-dos-reporteros-cadena-rusa-ntv-donetsk-20240619013748.html",
-         "published": 1718753868000,
-         "created": 1718753868000,
+         "id": "https://www.europapress.es/internacional/noticia-ucrania-denuncia-cientos-casos-violencia-sexual-manos-militares-rusos-20240619134445.html",
+         "title": "Ucrania denuncia cientos de casos de violencia sexual a manos de militares rusos",
+         "description": "Las autoridades de Ucrania han acusado a las tropas rusas desplegadas en el marco de la invasión del país de perpetrar más de 300 actos de violencia sexual contra mujeres, hombres y niños, según ha informado la fiscal general adjunta del país, Viktoriya Litvinova.",
+         "link": "https://www.europapress.es/internacional/noticia-ucrania-denuncia-cientos-casos-violencia-sexual-manos-militares-rusos-20240619134445.html",
+         "published": 1718797485000,
+         "created": 1718797485000,
          "category": "Internacional",
          "enclosures": [
             {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619013748_120.jpg",
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619134445_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
