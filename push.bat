@@ -11,6 +11,6 @@ REM Commit the changes
 git commit -m "Automated commit of all files in the folder"
 
 REM Push the changes
-git push -u origin main
+git push -u origin master
 
 endlocal
