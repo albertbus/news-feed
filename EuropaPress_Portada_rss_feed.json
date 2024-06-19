@@ -6,16 +6,16 @@
    "category": [],
    "items": [
       {
-         "id": "https://www.europapress.es/nacional/noticia-felipe-vi-condecora-19-civiles-virtudes-civicas-reforzar-cohesion-convivencia-democratica-20240619131013.html",
-         "title": "Felipe VI condecora a 19 civiles por sus \"virtudes cívicas\" y reforzar la cohesión y convivencia democrática",
-         "description": "El rey Felipe VI ha condecorado este miércoles con la Orden del Mérito Civil a 19 ciudadanos, uno por cada comunidad autónoma y Ceuta y Melilla, por representar las \"mejores virtudes cívicas\" y reforzar la cohesión y la convivencia democrática, según sus palabras, en el marco de los actos programados para conmemorar el X aniversario de su reinado.",
-         "link": "https://www.europapress.es/nacional/noticia-felipe-vi-condecora-19-civiles-virtudes-civicas-reforzar-cohesion-convivencia-democratica-20240619131013.html",
-         "published": 1718795413000,
-         "created": 1718795413000,
+         "id": "https://www.europapress.es/nacional/noticia-rey-reivindica-coherencia-guiado-actos-diez-anos-pese-coste-personal-20240619132326.html",
+         "title": "El Rey reivindica la coherencia que ha guiado sus actos en estos diez años pese al \"coste personal\"",
+         "description": "El Rey Felipe VI ha reafirmado su compromiso con la Constitución en el ejercicio de sus responsabilidades así como la coherencia que ha guiado y seguirá guiando todos sus actos, pese al \"coste personal\" de los mismos, en el décimo aniversario de su proclamación.",
+         "link": "https://www.europapress.es/nacional/noticia-rey-reivindica-coherencia-guiado-actos-diez-anos-pese-coste-personal-20240619132326.html",
+         "published": 1718796206000,
+         "created": 1718796206000,
          "category": "Nacional",
          "enclosures": [
             {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619131013_120.jpg",
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619132326_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
@@ -24,7 +24,7 @@
       },
       {
          "id": "https://www.europapress.es/nacional/noticia-felipe-vi-cumple-10-anos-rey-intentado-recuperar-prestigio-ejemplaridad-corona-20240615100853.html",
-         "title": "Felipe VI cumple 10 años como Rey en los que ha intentado recuperar el prestigio y la ejemplaridad de la Corona",
+         "title": "Fotos | Felipe VI cumple 10 años como Rey en los que ha intentado recuperar el prestigio y la ejemplaridad de la Corona",
          "description": "El 19 de junio de 2014 Felipe VI se presentó ante las Cortes en la ceremonia de proclamación con un discurso de \"ejemplaridad\" que ha ido desarrollando en estos diez años y cuyo objetivo era recuperar la debilitada imagen de la Corona, asediada hace una década por los escándalos que afectaban tanto a Don Juan Carlos como a otros miembros de la Familia Real.",
          "link": "https://www.europapress.es/nacional/noticia-felipe-vi-cumple-10-anos-rey-intentado-recuperar-prestigio-ejemplaridad-corona-20240615100853.html",
          "published": 1718438933000,
@@ -44,6 +44,23 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619093210_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.europapress.es/nacional/noticia-puigdemont-dice-supremo-lectura-desapasionada-ley-amnistia-permite-aplicacion-malversacion-20240619132210.html",
+         "title": "Puigdemont dice al Supremo que \"una lectura desapasionada\" de la ley de amnistía permite su aplicación a la malversación",
+         "description": "La defensa del expresident catalán Carles Puigdemont ha señalado al Tribunal Supremo que \"una lectura desapasionada\" de la ley de amnistía \"permite manifiestamente su aplicación a los hechos (.",
+         "link": "https://www.europapress.es/nacional/noticia-puigdemont-dice-supremo-lectura-desapasionada-ley-amnistia-permite-aplicacion-malversacion-20240619132210.html",
+         "published": 1718796130000,
+         "created": 1718796130000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619132210_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
@@ -153,17 +170,6 @@
                "type": "image/jpeg"
             }
          ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
-         "title": "Guerra Israel -Hamás | Directo: La ONU: Israel podría violar las leyes de la guerra con su uso de bombas pesadas",
-         "description": "Las autoridades de la Franja de Gaza, controladas por el Movimiento de Resistencia Islámica (Hamás), han elevado a cerca de 37.400 los palestinos muertos y a más de 85.500 los heridos a causa de la ofensiva militar desatada por Israel contra el enclave tras los ataques ejecutados el 7 de octubre por el grupo islamista y que se saldaron con unos 1.200 muertos y cerca de 250 secuestrados.",
-         "link": "https://www.europapress.es/internacional/noticia-guerra-israel-hamas-directo-ultima-hora-negociaciones-acuerdo-gaza-20240613074449.html",
-         "published": 1718257489000,
-         "created": 1718257489000,
-         "category": "Internacional",
-         "enclosures": [],
          "media": {}
       }
    ]
