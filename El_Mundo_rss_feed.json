@@ -6,6 +6,45 @@
    "category": "News & Politics",
    "items": [
       {
+         "title": "Felipe VI renueva su compromiso con España: promete \"integridad\" y actuar \"de forma responsable asumiendo incluso un coste personal\"",
+         "description": "\"A la Constitución y sus valores me he ceñido. Son guía para el ejercicio de mis funciones\", dice el Monarca en la celebración de sus 10 años de reinado&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/19/6672afb4e85eceaf668b45ac.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "link": "https://www.elmundo.es/espana/2024/06/19/6672afb4e85eceaf668b45ac.html",
+         "author": "Marina Pina",
+         "published": 1718795708000,
+         "created": 1718795708000,
+         "category": [
+            "Felipe VI",
+            "Constitución Española",
+            "Letizia Ortiz",
+            "Congreso de los Diputados",
+            "Reina Letizia",
+            "Princesa Leonor",
+            "Infanta Sofía",
+            "Artículos Marina Pina"
+         ],
+         "enclosures": [
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187954171537_150x0.jpg",
+               "width": "150",
+               "height": "100"
+            },
+            {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187954171537.jpg",
+               "medium": "image",
+               "width": "3072",
+               "height": "2048"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187954171537.jpg",
+               "medium": "image",
+               "width": "3072",
+               "height": "2048"
+            }
+         }
+      },
+      {
          "title": "La positiva evolución del teclado Qwerty",
          "description": "\"Disponer de una familia de profesionales formados de la mejor manera y capaces de decir la verdad cuando la quiebra colectiva lo requiera es una fortuna envidiada por muchas repúblicas\"&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/18/66707525e4d4d8626d8b45c5.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/espana/2024/06/18/66707525e4d4d8626d8b45c5.html",
@@ -57,35 +96,16 @@
             "Carlos Mazón",
             "Artículos Juanma Lamet"
          ],
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187892166327_150x0.jpg",
-               "width": "150",
-               "height": "100"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187892166327.jpg",
-               "medium": "image",
-               "width": "3072",
-               "height": "2048"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/19/17187892166327.jpg",
-               "medium": "image",
-               "width": "3072",
-               "height": "2048"
-            }
-         }
+         "enclosures": [],
+         "media": {}
       },
       {
          "title": "Detenido en Países Bajos el hombre que tiroteó a Alejo Vidal-Quadras",
          "description": "Se trata de Mehrez Ayari, de 37 años, un hombre de nacionalidad francesa y origen tunecino que acumula multitud de antecedentes&nbsp;<a href=\"https://www.elmundo.es/espana/2024/06/19/6672ba4121efa075478b45a8.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/espana/2024/06/19/6672ba4121efa075478b45a8.html",
          "author": "Gema Peñalosa",
-         "published": 1718795240000,
-         "created": 1718795240000,
+         "published": 1718795349000,
+         "created": 1718795349000,
          "category": [
             "Alejo Vidal-Quadras",
             "PP",
@@ -539,8 +559,8 @@
          "description": "Tras la octava primavera más cálida del siglo XXI, la Agencia Estatal de Meteorología anuncia que aunque \"el verano no acaba de arrancar\" la transición es inminente&nbsp;<a href=\"https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2024/06/19/6671b783e85ececf1e8b4595.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2024/06/19/6671b783e85ececf1e8b4595.html",
          "author": "Lourdes Leblebidjian",
-         "published": 1718791119000,
-         "created": 1718791119000,
+         "published": 1718795846000,
+         "created": 1718795846000,
          "category": [
             "Medio Ambiente",
             "Cambio Climático",
@@ -608,8 +628,8 @@
          "description": "&nbsp;<a href=\"https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html",
          "author": "EL MUNDO",
-         "published": 1718795038000,
-         "created": 1718795038000,
+         "published": 1718795748000,
+         "created": 1718795748000,
          "category": [],
          "enclosures": [
             {
@@ -660,42 +680,6 @@
                "medium": "image",
                "width": "3072",
                "height": "2048"
-            }
-         }
-      },
-      {
-         "title": "Del revés 2 pasa de la infancia a la pubertad: \"Somos una sociedad cada vez más adolescente\"",
-         "description": "El director Kelsey Mann y el productor Pete Docter reflexionan sobre los riesgos y desafíos de regresar diez años después a una de las más emblemáticas películas del universo Pixar&nbsp;<a href=\"https://www.elmundo.es/cultura/cine/2024/06/18/66719af8e9cf4a34428b45bd.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/cultura/cine/2024/06/18/66719af8e9cf4a34428b45bd.html",
-         "author": "Luis Martínez",
-         "published": 1718739048000,
-         "created": 1718739048000,
-         "category": [
-            "cine",
-            "cultura",
-            "Pixar",
-            "Disney",
-            "Artículos Luis Martínez"
-         ],
-         "enclosures": [
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187221131887_150x0.jpg",
-               "width": "150",
-               "height": "83"
-            },
-            {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187221131887.jpg",
-               "medium": "image",
-               "width": "1200",
-               "height": "668"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187221131887.jpg",
-               "medium": "image",
-               "width": "1200",
-               "height": "668"
             }
          }
       },

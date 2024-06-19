@@ -6,6 +6,23 @@
    "category": [],
    "items": [
       {
+         "id": "https://www.europapress.es/nacional/noticia-felipe-vi-condecora-19-civiles-virtudes-civicas-reforzar-cohesion-convivencia-democratica-20240619131013.html",
+         "title": "Felipe VI condecora a 19 civiles por sus \"virtudes cívicas\" y reforzar la cohesión y convivencia democrática",
+         "description": "El rey Felipe VI ha condecorado este miércoles con la Orden del Mérito Civil a 19 ciudadanos, uno por cada comunidad autónoma y Ceuta y Melilla, por representar las \"mejores virtudes cívicas\" y reforzar la cohesión y la convivencia democrática, según sus palabras, en el marco de los actos programados para conmemorar el X aniversario de su reinado.",
+         "link": "https://www.europapress.es/nacional/noticia-felipe-vi-condecora-19-civiles-virtudes-civicas-reforzar-cohesion-convivencia-democratica-20240619131013.html",
+         "published": 1718795413000,
+         "created": 1718795413000,
+         "category": "Nacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619131013_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/nacional/noticia-felipe-vi-cumple-10-anos-rey-intentado-recuperar-prestigio-ejemplaridad-corona-20240615100853.html",
          "title": "Felipe VI cumple 10 años como Rey en los que ha intentado recuperar el prestigio y la ejemplaridad de la Corona",
          "description": "El 19 de junio de 2014 Felipe VI se presentó ante las Cortes en la ceremonia de proclamación con un discurso de \"ejemplaridad\" que ha ido desarrollando en estos diez años y cuyo objetivo era recuperar la debilitada imagen de la Corona, asediada hace una década por los escándalos que afectaban tanto a Don Juan Carlos como a otros miembros de la Familia Real.",
@@ -14,23 +31,6 @@
          "created": 1718438933000,
          "category": "Nacional",
          "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/nacional/noticia-reyes-princesa-asturias-infanta-sofia-testigos-excepcion-relevo-solemne-guardia-real-20240619120554.html",
-         "title": "Los Reyes, la Princesa de Asturias y la Infanta Sofía, testigos de excepción del relevo solemne de la Guardia Real",
-         "description": "Los Reyes Felipe VI y Letizia junto a la Princesa de Asturias y la Infanta Sofía han sido testigos de excepción del relevo solemne de la Guardia Real en el Palacio Real que ha dado el pistoletazo a los actos oficiales con motivo del décimo aniversario de la proclamación del monarca.",
-         "link": "https://www.europapress.es/nacional/noticia-reyes-princesa-asturias-infanta-sofia-testigos-excepcion-relevo-solemne-guardia-real-20240619120554.html",
-         "published": 1718791554000,
-         "created": 1718791554000,
-         "category": "Nacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619120554_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
          "media": {}
       },
       {
@@ -70,7 +70,7 @@
       {
          "id": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
          "title": "Detenido en Países Bajos el presunto autor material del atentado contra Alejo Vidal-Quadras",
-         "description": "El Ministerio del Interior y la Policía Nacional han confirmado la detencion en Países Bajos del ciudadano francés de origen tunecino buscado por ser el autor material del atentado contra Alejo Vidal-Quadras en Madrid.",
+         "description": "La investigación de la Comisaría General de Información de la Policía y la Audiencia Nacional suma seis arrestados por estos hechos MADRID, 19 (EUROPA PRESS)",
          "link": "https://www.europapress.es/nacional/noticia-detenido-paises-bajos-presunto-autor-material-atentado-contra-alejo-vidal-quadras-20240619125034.html",
          "published": 1718794234000,
          "created": 1718794234000,
