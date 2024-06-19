@@ -6,6 +6,32 @@
    "category": [],
    "items": [
       {
+         "title": "Bactería carnívora: El repunte de contagios de estreptococo en Japón pone en alerta a Europa",
+         "description": "Según el ministerio de Sanidad de Japón se han registrado 977 casos y 77 personas han muerto.",
+         "link": "https://es.euronews.com/2024/06/19/bacteria-carnivora-el-repunte-de-contagios-de-estreptococo-en-japon-pone-en-alerta-a-europ",
+         "published": 1718796647000,
+         "created": 1718796647000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://static.euronews.com/articles/stories/07/23/70/42/696x392_cmsv2_691db2a9-753e-5ea0-9cda-f8dca5777d2d-7237042.jpg",
+               "type": "image/jpeg",
+               "medium": "image",
+               "height": "696",
+               "width": "392"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://static.euronews.com/articles/stories/07/23/70/42/696x392_cmsv2_691db2a9-753e-5ea0-9cda-f8dca5777d2d-7237042.jpg",
+               "type": "image/jpeg",
+               "medium": "image",
+               "height": "696",
+               "width": "392"
+            }
+         }
+      },
+      {
          "title": "El neerlandés Mark Rutte se perfila como jefe de la OTAN tras el levantamiento del veto húngaro",
          "description": "Mark Rutte se perfila como el próximo secretario general de la OTAN con el levantamiento el martes del veto húngaro, después de que el primer ministro saliente neerlandés diera garantías por escrito de que no obligaría a Hungría a participar en los nuevos planes para brindar apoyo a Ucrania.",
          "link": "https://es.euronews.com/2024/06/19/el-neerlandes-mark-rutte-se-perfila-como-jefe-de-la-otan-tras-el-levantamiento-del-veto-hu",
@@ -180,32 +206,6 @@
          "media": {
             "thumbnail": {
                "url": "https://static.euronews.com/articles/stories/08/51/08/44/696x392_cmsv2_78f2838b-b9cc-5834-ad0b-a4f932558918-8510844.jpg",
-               "type": "image/jpeg",
-               "medium": "image",
-               "height": "696",
-               "width": "392"
-            }
-         }
-      },
-      {
-         "title": "El tiempo sigue enloquecido en Europa con fuertes olas de calor y duras tormentas",
-         "description": "El tiempo extremo sigue haciendo estragos en Europa. Mientras partes del continente sufren altas temperaturas, en otras, las tormentas y las lluvias son las protagonistas.",
-         "link": "https://es.euronews.com/2024/06/19/el-tiempo-sigue-enloquecido-en-europa-con-fuertes-olas-de-calor-y-duras-tormentas",
-         "published": 1718771051000,
-         "created": 1718771051000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://static.euronews.com/articles/stories/08/51/35/34/696x392_cmsv2_ed762948-4478-5857-aaee-f634ee0a8c01-8513534.jpg",
-               "type": "image/jpeg",
-               "medium": "image",
-               "height": "696",
-               "width": "392"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://static.euronews.com/articles/stories/08/51/35/34/696x392_cmsv2_ed762948-4478-5857-aaee-f634ee0a8c01-8513534.jpg",
                "type": "image/jpeg",
                "medium": "image",
                "height": "696",

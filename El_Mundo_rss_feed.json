@@ -525,32 +525,43 @@
          "media": {}
       },
       {
-         "title": "Agresión homófoba frente a la mezquita de Lavapiés: \"Ni partidos políticos (Más Madrid, PSOE y PP) ni asociaciones LGTBI han contestado a mi petición de ayuda\"",
-         "description": "Un vecino de 47 años fue atacado por un bengalí, a plena luz del día, al grito de «maricón, maricón»&nbsp;<a href=\"https://www.elmundo.es/madrid/2024/06/19/66715431e9cf4a78148b4597.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
-         "link": "https://www.elmundo.es/madrid/2024/06/19/66715431e9cf4a78148b4597.html",
-         "author": "Luis F. Durán",
+         "title": "El convulso final del restaurante chino favorito del Rey Juan Carlos: denuncias por \"explotación\" al cocinero y su local comprado por un fondo buitre",
+         "description": "El denunciante pasó \"15 de años de esclavitud\" tras los fogones del restaurante Buen Gusto, según sus abogados&nbsp;<a href=\"https://www.elmundo.es/madrid/2024/06/19/6671efa5e9cf4a691e8b45ba.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
+         "link": "https://www.elmundo.es/madrid/2024/06/19/6671efa5e9cf4a691e8b45ba.html",
+         "author": "Daniel J. Ollero",
          "published": 1718748751000,
          "created": 1718748751000,
-         "category": "Artículos Luis F. Durán",
+         "category": [
+            "Policía Nacional",
+            "España",
+            "Comida",
+            "Juan Carlos I",
+            "Alberto Lati",
+            "Madrid",
+            "restaurante",
+            "Sucesos",
+            "Comunidad de Madrid",
+            "Artículos Daniel J. Ollero"
+         ],
          "enclosures": [
             {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187224628558_150x0.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187432770207_150x0.jpg",
                "width": "150",
-               "height": "150"
+               "height": "112"
             },
             {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187224628558.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187432770207.jpg",
                "medium": "image",
-               "width": "2000",
-               "height": "2000"
+               "width": "3072",
+               "height": "2313"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187224628558.jpg",
+               "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/18/17187432770207.jpg",
                "medium": "image",
-               "width": "2000",
-               "height": "2000"
+               "width": "3072",
+               "height": "2313"
             }
          }
       },
@@ -628,8 +639,8 @@
          "description": "Se retira con<strong></strong>24 títulos en su palmarés y siete medallas con la selección española&nbsp;<a href=\"https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html\">Leer</a><img src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml\" alt=\"\"/>",
          "link": "https://www.elmundo.es/deportes/baloncesto/2024/06/19/6672b972fdddff1f818b45b1.html",
          "author": "EL MUNDO",
-         "published": 1718796448000,
-         "created": 1718796448000,
+         "published": 1718796712000,
+         "created": 1718796712000,
          "category": [
             "Baloncesto",
             "Real Madrid Baloncesto",

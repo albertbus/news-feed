@@ -85,6 +85,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/internacional/noticia-hezbola-confirma-muerte-tres-miembros-ultimos-bombardeos-israel-contra-libano-20240619132152.html",
+         "title": "Hezbolá confirma la muerte de tres de sus miembros tras los últimos bombardeos de Israel contra Líbano",
+         "description": "El partido-milicia chií Hezbolá ha confirmado este miércoles la muerte de otros tres de sus miembros tras nuevos bombardeos ejecutados por el Ejército de Israel contra el sur de Líbano, en el marco de los cerca de ocho meses y medio de combates en la frontera.",
+         "link": "https://www.europapress.es/internacional/noticia-hezbola-confirma-muerte-tres-miembros-ultimos-bombardeos-israel-contra-libano-20240619132152.html",
+         "published": 1718796112000,
+         "created": 1718796112000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619132152_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/internacional/noticia-siria-denuncia-muerte-oficial-ejercito-ataque-israel-contra-dos-instalaciones-militares-20240619093645.html",
          "title": "Siria denuncia la muerte de un oficial del Ejército en un ataque de Israel contra dos instalaciones militares",
          "description": "Las autoridades de Siria han denunciado este miércoles la muerte de un oficial del Ejército en un ataque perpetrado por un dron israelí contra dos instalaciones militares en las provincias de Quneitra y Daraa, sin que las Fuerzas Armadas de Israel se hayan pronunciado por ahora sobre el suceso.",
@@ -140,23 +157,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619013748_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/internacional/noticia-herido-grave-destacado-bloguero-opositor-kazajistan-ser-tiroteado-kiev-20240619071500.html",
-         "title": "Herido grave un destacado bloguero opositor de Kazajistán tras ser tiroteado en Kiev",
-         "description": "El destacado bloguero opositor de Kazajistán Aydos Sadykoy ha sido hospitalizado de gravedad este martes tras recibir varios disparos en el centro de Kiev, la capital de Ucrania, cuyas autoridades le concedieron asilo en 2014.",
-         "link": "https://www.europapress.es/internacional/noticia-herido-grave-destacado-bloguero-opositor-kazajistan-ser-tiroteado-kiev-20240619071500.html",
-         "published": 1718774100000,
-         "created": 1718774100000,
-         "category": "Internacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619071500_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }
