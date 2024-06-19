@@ -34,6 +34,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/internacional/noticia-onu-dice-israel-podria-violar-leyes-guerra-uso-bombas-pesadas-contra-gaza-20240619105855.html",
+         "title": "La ONU dice que Israel podría violar las leyes de la guerra con su uso de bombas pesadas contra Gaza",
+         "description": "Naciones Unidas ha afirmado este miércoles que el uso de bombas pesadas por parte del Ejército de Israel en el marco de su ofensiva contra la Franja de Gaza genera \"graves preocupaciones\" en torno a posibles violaciones de las leyes de la guerra debido al \"elevado número de víctimas civiles\" y la \"destrucción generalizada\" causada por estos ataques.",
+         "link": "https://www.europapress.es/internacional/noticia-onu-dice-israel-podria-violar-leyes-guerra-uso-bombas-pesadas-contra-gaza-20240619105855.html",
+         "published": 1718787535000,
+         "created": 1718787535000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619105855_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/internacional/noticia-ejercito-israel-dice-haber-aprobado-plan-ataque-contra-libano-escalada-hezbola-20240619032843.html",
          "title": "El Ejército de Israel dice haber aprobado un plan de ataque contra Líbano ante la escalada con Hezbolá",
          "description": "El Ejército de Israel ha afirmado este martes que ha \"aprobado\" un plan de ataque contra Líbano, coincidiendo con la escalada en la frontera norte con el partido-milicia chií libanés Hezbolá, en el marco de los enfrentamientos a raíz de los ataques perpetrados el 7 de octubre por el Movimiento de Resistencia Islámica (Hamás) contra territorio israelí.",
@@ -61,23 +78,6 @@
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619035339_120.jpg",
-               "length": "4096",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/internacional/noticia-onu-dice-inseguridad-impide-entregar-ayuda-kerem-shalom-pese-pausas-tacticas-israel-20240619085105.html",
-         "title": "La ONU dice que la inseguridad impide entregar ayuda desde Kerem Shalom pese a las \"pausas tácticas\" de Israel",
-         "description": "Recalca que la situación \"es muy peligrosa\" y que el anuncio \"aún ha de traducirse en que llegue más ayuda a la gente que la necesita\"",
-         "link": "https://www.europapress.es/internacional/noticia-onu-dice-inseguridad-impide-entregar-ayuda-kerem-shalom-pese-pausas-tacticas-israel-20240619085105.html",
-         "published": 1718779865000,
-         "created": 1718779865000,
-         "category": "Internacional",
-         "enclosures": [
-            {
-               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619085105_120.jpg",
                "length": "4096",
                "type": "image/jpeg"
             }

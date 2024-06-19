@@ -29,7 +29,7 @@
          "link": "https://www.europapress.es/catalunya/noticia-criticos-erc-exigen-renovacion-total-cupula-partido-congreso-noviembre-20240618185659.html",
          "published": 1718729819000,
          "created": 1718729819000,
-         "category": "Catalunya",
+         "category": "Cataluña",
          "enclosures": [
             {
                "url": "https://img.europapress.es/fotoweb/fotonoticia_20240618185659_120.jpg",
@@ -124,6 +124,23 @@
          "media": {}
       },
       {
+         "id": "https://www.europapress.es/economia/noticia-cnmc-investiga-distribuidora-electrica-naturgy-haber-podido-falsear-libre-competencia-20240619111118.html",
+         "title": "La CNMC investiga a la distribuidora eléctrica de Naturgy por haber podido \"falsear\" la libre competencia",
+         "description": "MADRID, 19 Jun. (EUROPA PRESS) - La Comisión Nacional de los Mercados y la Competencia (CNMC) está investigando a la distribuidora eléctrica del Grupo Naturgy, UFD, y a sus matrices por posibles prácticas anticompetitivas, entre ellas haber podido priorizar las incidencias y reclamaciones presentadas por ciertas comercializadoras entre 2021 y 2022.",
+         "link": "https://www.europapress.es/economia/noticia-cnmc-investiga-distribuidora-electrica-naturgy-haber-podido-falsear-libre-competencia-20240619111118.html",
+         "published": 1718788278000,
+         "created": 1718788278000,
+         "category": "Economía Finanzas",
+         "enclosures": [
+            {
+               "url": "https://img.europapress.es/fotoweb/fotonoticia_20240619111118_120.jpg",
+               "length": "4096",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.europapress.es/nacional/noticia-gobierno-valora-acciones-judiciales-contra-presidente-parlament-balear-arrancar-foto-picornell-20240619003805.html",
          "title": "El Gobierno valora acciones judiciales contra el presidente del Parlament balear por arrancar una foto de Picornell",
          "description": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha informado de que ha dado instrucciones a los servicios jurídicos de su Ministerio para que analicen lo ocurrido y emprendan acciones legales, si procede, conforme a la Ley de Memoria Democrática después de que el presidente del Parlament balear Gabriel Le Senne (Vox) haya arrancado una foto de Aurora Picornell.",
@@ -138,17 +155,6 @@
                "type": "image/jpeg"
             }
          ],
-         "media": {}
-      },
-      {
-         "id": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
-         "title": "Guerra Ucrania - Rusia | Directo: Muere el oficial herido en un ataque contra dos reporteros de una cadena en Donetsk",
-         "description": "Un dron ucraniano ha impactado este martes por la mañana contra un depósito de productos petrolíferos situado en la región rusa de Rostov, cerca de la frontera con Ucrania, causando un gran incendio en la zona, a la que se han desplazado más de 200 bomberos.",
-         "link": "https://www.europapress.es/internacional/noticia-guerra-ucrania-rusia-directo-ultimas-noticias-frente-guerra-jarkov-20240613075447.html",
-         "published": 1718258087000,
-         "created": 1718258087000,
-         "category": "Internacional",
-         "enclosures": [],
          "media": {}
       }
    ]
